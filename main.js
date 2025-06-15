@@ -8,7 +8,6 @@ async function setupCamera() {
           height: {ideal:1920},
           width: {ideal: 1920},
           autoGainControl: false,
-          advanced: { }
         },
       });
     
